@@ -2,6 +2,16 @@
 
 This project involves the analysis and prediction of cholesterol levels using a dataset containing information about individuals' blood types, smoking habits, physical activity levels, age, weight, height, and cholesterol levels. The primary goal is to create a machine learning model to predict cholesterol levels based on the available features, leveraging regression techniques. The data is preprocessed, analyzed for correlations, and used for training a regression model to predict cholesterol levels.
 
+1. Clone Repository
+
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run Jupyter Notebook
+
 ---
 
 ## Proyecto de análisis y predicción de colesterol
